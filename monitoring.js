@@ -1,4 +1,5 @@
-var MONITORED_RESOURCES_BASE_URL = "http://localhost:8081/monitored-sites";
+// var MONITORED_RESOURCES_BASE_URL = "http://localhost:8081/monitored-sites";
+var MONITORED_RESOURCES_BASE_URL = "https://simple-site-mon-backend.herokuapp.com/monitored-sites";
 var monitoredResourcesIds = [];
 var chart;
 
